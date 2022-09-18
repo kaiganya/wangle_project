@@ -1,5 +1,5 @@
 hello world!
 test1!
-test2!
 test3!
 dev分支添加的内容！
+dev删除内容test2，并被master分支合并！
